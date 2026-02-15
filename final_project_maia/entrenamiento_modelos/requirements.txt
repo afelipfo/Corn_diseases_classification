@@ -1,0 +1,10 @@
+# Requirements para entrenamiento de modelos
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+mlflow
+pillow
+tqdm
